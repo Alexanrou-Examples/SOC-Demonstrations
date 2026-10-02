@@ -6,6 +6,7 @@ A collection of detailed phishing email analyses demonstrating practical securit
 ## How to Use
 1. Browse the `CASE-XX/` folders for individual analyses
 2. Each case includes step-by-step documentation with screenshots
+3. Network analysis has `Wireshark/` cases, these are specific to the tool.
 
 ## Skills Demonstrated
 - Email header analysis (SPF, DKIM, DMARC)
